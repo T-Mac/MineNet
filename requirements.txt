@@ -1,0 +1,4 @@
+Django==1.4
+distribute==0.6.26
+psycopg2==2.4.5
+virtualenv==1.7.1.2
